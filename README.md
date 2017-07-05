@@ -1,2 +1,1 @@
-# cygwin-mirror
-Docker Build Files for Cygwin Mirror
+# cygwin-mirror-docker
